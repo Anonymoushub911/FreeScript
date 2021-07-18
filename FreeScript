@@ -1,1 +1,6 @@
-
+if game.PlaceId == 394506555 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Glue%20Piece"))()
+    else
+        game.Players.LocalPlayer:Kick("\n game not suppot")
+end
+    
