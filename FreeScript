@@ -3,7 +3,7 @@ if game.PlaceId == 394506555 then
 elseif game.PlaceId == 6186867282 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Project%20XL"))()
 elseif game.PlaceId == 6186867282 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Project%20XL"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Magic%20Sea"))()
     else
         game.Players.LocalPlayer:Kick("\n game not suppot")
 end
