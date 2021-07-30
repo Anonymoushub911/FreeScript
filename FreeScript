@@ -4,7 +4,7 @@ elseif game.PlaceId == 6186867282 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Project%20XL"))()
 elseif game.PlaceId == 7148407314 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Magic%20Sea"))()
-elseif game.PlaceId == 2753915549 and 4442272183 then
+elseif game.PlaceId == 2753915549 or 4442272183 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Anonymoushub911/SCRIPTFREE/main/Blox%20Fruits%20Free"))()
     else
         game.Players.LocalPlayer:Kick("\n game not suppot")
